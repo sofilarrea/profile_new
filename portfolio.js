@@ -59,6 +59,11 @@ const animations = [
     text: 'FORMACIÓN Y EXPERIENCIA HELADERA',
     elementId: 'typewriter-formacion',
     delay: 18000
+  },
+  {
+    text: "WEDDING SOFI & MARI",
+    elementId: 'typewriter-wedding',
+    delay: 19000
   }
 ];
 
